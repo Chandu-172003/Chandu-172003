@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java Developer
+I am a Java full stack Developer and B.Tech graduate with aa passion for developer. Proficient in JDBC,Java Core, Spring boot, SQL, HTML,CSS, Bootstrap, Javascript . Strong understanding of front- end and back- end technologies. Seeking entry - level position to apply skills and drive organization success
 
 
 ## 🌐 Socials:
