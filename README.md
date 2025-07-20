@@ -3,7 +3,7 @@ I am a Java full stack Developer and B.Tech graduate with aa passion for develop
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bluemoon__17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adyaputtachandana@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bluemoon__17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adyaputtachandana@gmail.com)  [![LinkedIn].(https://www.linkedin.com/in/chandana-a-3424ba286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app    )]  [![FaceBook].(https://www.facebook.com/share/1BSKg4SEAo)]  [![Naukri].(    )] 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
